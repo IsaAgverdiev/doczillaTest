@@ -1,0 +1,22 @@
+{
+  "name": "doczillatest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaAgverdiev/doczillaTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsaAgverdiev/doczillaTest/issues"
+  },
+  "homepage": "https://github.com/IsaAgverdiev/doczillaTest#readme",
+  "dependencies": {
+    "node": "^17.7.2"
+  }
+}
